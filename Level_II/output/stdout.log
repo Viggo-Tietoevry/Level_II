@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Certificate level II robot. Orders robots from RobotSpareBin Indus...
+==============================================================================
+Order Robots                                                          | FAIL |
+InvalidSchema: No connection adapters were found for ':/Secret(name=CSV_URL, keys=[robotsparebin_CsvFile])'
+------------------------------------------------------------------------------
+Tasks :: Certificate level II robot. Orders robots from RobotSpare... | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  c:\Users\jeppsvig\OneDrive - TietoEVRY\Robocorp RPA\Robots\Level_II\output\output.xml
+Log:     c:\Users\jeppsvig\OneDrive - TietoEVRY\Robocorp RPA\Robots\Level_II\output\log.html

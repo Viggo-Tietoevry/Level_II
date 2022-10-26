@@ -1,0 +1,11 @@
+{"level":30,"time":"2022-10-13T15:13:31.976Z","pid":23184,"hostname":"WPF1S2SYL","msg":"Listening on 59993"}
+{"level":30,"time":"2022-10-13T15:13:32.010Z","pid":23184,"hostname":"WPF1S2SYL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:13:32.010Z","pid":23184,"hostname":"WPF1S2SYL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:13:32.018Z","pid":23184,"hostname":"WPF1S2SYL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:13:32.018Z","pid":23184,"hostname":"WPF1S2SYL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:14:48.488Z","pid":23184,"hostname":"WPF1S2SYL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:14:48.488Z","pid":23184,"hostname":"WPF1S2SYL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:14:48.503Z","pid":23184,"hostname":"WPF1S2SYL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:14:48.503Z","pid":23184,"hostname":"WPF1S2SYL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T15:14:51.735Z","pid":23184,"hostname":"WPF1S2SYL","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-13T15:14:51.735Z","pid":23184,"hostname":"WPF1S2SYL","msg":"End of node method closeAllBrowsers"}
